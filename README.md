@@ -21,5 +21,3 @@ troop/
 
 
 # Run the module: python -m troop
-
-#
